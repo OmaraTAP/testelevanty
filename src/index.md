@@ -5,5 +5,4 @@ tags: navItem
 ---
 # {{title}}
 
-My Home Page!
-This is the home page. Replace this with your text.
+Pleasure to meet you! My name is Omara.
