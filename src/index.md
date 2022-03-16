@@ -5,4 +5,4 @@ tags: navItem
 ---
 # {{title}}
 
-Pleasure to meet you! My name is Omara.
+Hello! I'm Omara. Enjoy your visit.
